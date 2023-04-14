@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.carousel-container {
+  width: 640px;
+  margin: 0 auto;
+}
